@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+-K-POP 이머시브 콘텐츠 기획자 과정 1기
+-관심: 디자인, 기획
+-만든 것: 네이버지도 앱 재기획
 <!--
 **ahhcheah-sudo/ahhcheah-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
