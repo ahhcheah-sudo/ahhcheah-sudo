@@ -1,12 +1,11 @@
-## Hi there, 김아현입니다 👋
+## 안녕하세요, 김아현입니다 👋
 - K-POP 이머시브 콘텐츠 기획자 과정 1기   
 - MBTI 유형 : infj   
 - 취미 : 하늘사진찍기, 영화, 드라마, 웹툰      
-- 만든 것 : 아직 없음   
+<img width="1199" height="698" alt="image" src="https://github.com/user-attachments/assets/a1b54511-aaea-498d-a549-8f51a79d4e60" />
 
-- https://www.instagram.com/naday0_?stkn=enltZnJhNTBpcDg0
 <!--
-**ahhcheah-sudo/ahhcheah-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahyun03/ahyun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
