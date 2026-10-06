@@ -2,7 +2,7 @@
 -K-POP 이머시브 콘텐츠 기획자 과정 1기   
 -MBTI 유형 : infj   
 -취미 : 영화, 드라마, 웹툰   
--특기 :    
+-특기 : ...    
 -만든 것 : 아직 없음   
 <!--
 **ahhcheah-sudo/ahhcheah-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
